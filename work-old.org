@@ -1,0 +1,269 @@
+* DONE Winery Map - Karen Wolf - IN 2/3/17
+  First Draft OUT 3/9/17
+* DONE Update Accela GIS in production to 9.0.3 OUT 3/11/17
+* DONE Vashon Town core analysis/Plan - Brad Clark IN 12/29/16
+	 Completed Town Core parking reduction zone map OUT 3/16/17
+* DONE Paratransit Routing
+	 First Draft for full month OUT 3/17/17
+	 First Draft of methodology documentation OUT 3/20/17
+	Answered Follow-up Questions to Methodology OUT 3/24/17
+* DONE Respond to Greg's request for Matrix support information IN 3/10/17 OUT 3/21/17
+
+
+
+* TODO Download ArcGIS Pro 1.4 & Desktop 10.4.1
+  submit to desktop support people.
+  Tell Cory about the ArcGIS Pro 1.4 and put the installer somewhere
+  Tell Mary to tell the other people when 10.4.1 is available
+
+* TODO Answer Connie's e-mail
+* TODO Respond to request for Mineral sites map. IN 3/24/17
+* TODO Figure out the PAA layer symbology for iMap
+* TODO Vashon Town core analysis/Plan - Brad Clark IN 12/29/16
+		a. Submit sidewalk map to designer
+* TODO Roads updates for Travel Concurrency and MPS IN 3/15/17
+		a. Create new map services for Accela GIS
+		b. Test new map services for Accela GIS
+		c. Update map services for Accela GIS Production
+		d. Verify Adam has updated GISMO Parcel Information Report
+		e. Verify District report is updated
+		f. Remove MPS and TCMZONE from Plibrary
+* TODO Follow-up on software for new laptops
+* TODO Winery Map - Karen Wolf - IN 2/3/17
+		a. Second Draft requested sent to DPER staff IN 3/9/17
+* TODO Find missing maps for p-suffix conditions - Wendy G - IN 3/8/17
+* TODO Caroline Boatsman - 206-595-8579
+		a. Mercer island - loss of tree caonpy
+* TODO Paul Freeman
+		a. Question about lot. 301-898-2631
+* TODO Lisa Verner - Large Parcel analysis IN 1/31/17
+		a. Wait for response to first draft
+* TODO Question about Mai's parcels
+* TODO Question from Stacey wenkel about not getting GIS in the inspection whatever
+* TODO Update parcel_address Layer and key IDs for Accela Automation IN 2/8/17
+* TODO Request for Regional Planning Hours 2015-2016 IN 2/13/17
+* TODO Implement the Compplan Changes IN 12/9/16
+		a. Update UGA
+		b. Update PAA
+		c. Update Complu
+		d. Update Zoning
+		e. Update Development Conditions
+* TODO Update Accela GIS instances to version 9.0.x 
+		a. Waiting for Accela to provide target date for Prod
+* TODO Respond to Greg Stought regarding licenses management plan for John Backman IN 1/17/17
+* TODO Open data portal testing in 1/10/17
+		a. Complete by 1/27/17
+* TODO Paratransit Project IN 11/2/16
+		a. Write python script to parse data supplied by Auditor for use with routing API
+* TODO Notify Jim Keller when the Accela GIS upgrade gets submitted to change management. IN 12/14/16
+* TODO SMART GOAL: Regional Planning Section GIS Work Plan 2017-18
+		a. Prepare a document for the Regional Planning Section
+			i. Expect the maintenance of Comp Plan layers to be split between PSB, DPER, DNRP
+				1. Create a list of layers and get explicit feed-back on which are maintained by who
+			ii. Note: Local Subarea Planning is staying at DPER (Skyway, North Highline, Vashon)
+			iii. Note: Include 25th Aniversary GMA info graphic project
+			iv. Note: Include CiP topics
+		b. Get written acceptance of work plan from Lauren Smith or her designee.
+		c. Schedule a time that Dennis and I can present to the Regional Planning Staff
+			i. Contact Chandler First
+* TODO Look at e-mails from 10/19 on-ward
+* TODO SMART GOAL:  Establish and create a document describing a new KCGIS governance process for spatial data warehouse layer maintenance prioritization and tracking, before July 2017, which will identify geographic information framework layers, track layer update frequencies, and allow the GIS Steering Committee to prioritize layers to receive update efforts as part of the KCGIS Center’s operations program. 
+* TODO SMART GOAL: Add 3 more counties to City_3co_jurisdiction layer at the request of transit. IN 3/2/15
+		a. Obtain feed-back from Gunnar
+		b. Complete functional model
+		c. Complete functional python script
+		d. Post new layers
+		e. Retire old layers
+* TODO SMART GOAL: Tribal Lands
+		a. Create new layer in library control file
+			a. Possible Name = Regional_Reservation_AREA - wait for input from Bob Peterson
+* TODO Work on laptop testing
+* TODO Change request for installing javascript accela gis
+		a. Send questions to Accela
+		b. Figure out database
+* TODO Look into Council zoning ordinance e-mail 11/9/16 report back to Christie
+		a. See e-mail from Erin (council staff)
+* TODO Wictor lady e-mail 11/9/16
+* TODO SMART GOAL: Publish Steep Slope & Landslide Hazard Layers for DPER IN 11/18/15
+		a. Greg Wessel - Fix the Steep Slopes Area to include missing portions IN 10/7/16
+			a. Fix the Services Directory Description to include the proper links
+		b. Create a raster version of 50 foot buffer? See map service HK published for DNRP.
+		c. Get Adam to update the parcel info report.
+		d. Review the meta data reports that Mike Leathers has generated
+* TODO SMART GOAL: Develop Recorded Plat Lot Database.
+		a. Work out and test technologies that may be used
+			i. Create map services on GeoServer serving out PostGIS data
+		b. Design and implement database schema
+		c. Create web interface for viewing data
+		d. Create Web interface for entering data
+			i. Functions for posting  tabular data
+			ii. Functions for registering scanned plat map
+			iii. Functions for creating  lots from existing Parcel polygons
+			iv. Functions for posting shape data
+		e. Create back-end process for posting shape/tabular data
+		f. Migrate from KCGIS test server to AWS when pilot project is approved
+* TODO Marina Giloi - respond regarding ZIP code GeoJSON for MS Power BI - IN 10/7/16
+* TODO Conservation Easement IN 11/13/15
+		a. Find out if DPER needs the ownership information
+		b. Find out which layers DPER needs reported in the parcel information report
+		c. Talk to Todd Klinka about how it may relate to his stuff.
+		d. Get information to Adam
+		e. Find out if/how/how long of text can be inserted into Automation as a parcel flag.
+	41. Mike Leathers - Short Imagery Survey
+	42. Amazon Cloud MRF with Mike Leathers
+	43. Review CAD Map features Meta Data provided by Connie C IN 10/13/16
+	44. Talk to Toni about ongoing Data update schedule of Marijuana Data
+		○ Put it in Plibrary?
+		○ Available only internally?
+	45. ----------------------------
+	46. Community Service Areas
+		a. Write document for model as it exists
+		b. Put files in TFS
+		c. Orphaned Tasks
+			a. Enhance a report that Dave is creating by adding CSA value.
+			b. Add Community Service Areas to GIS_Layers map service in Prod
+	47. Respond to Christine Jensen
+		a. It seems that L98RZ006 (Ordinance # 13755 - TR-P48) wasn't implemented in the zoning layer until 3 months after the area zoning map was produced for the comp plan amendment. See e-mails sent in May 2014.
+		b. Implement the p-suffix for the adjacent Rainier Ridge?
+	48. Create Recorded Plat Lot Plan document. IN 3/11/16
+	49. SMP changes requested by Laura Casey
+		a. Get Jim Chan to contact Mark Isaacson and determine who is responsible and what are the procedures for  updates
+		b. Laura e-mail
+		c. Lake Washington between Renton and Bellevue?
+	50. Figure out KCGIS geocoding service details and put in AVTEST AccelaGIS config.
+	51. Manage migration from Pictometry Online to Connect Explorer IN 2/3/16
+		a. Prepare a presentation for DPER Huddle MTW 8:30AM
+	52. Fix SAO Wetland error - Jen Vanderhoof IN 12/19/15
+	53. Fix GIS_Layers Service Definition  file IN 1/21/16
+	54. City Layers
+		a. Talk to Rey Sugi about the Snoqualmie City boundary
+		b. Check out and respond to City of Renton discrepancy #e-mail 1/14/15
+		c. Fix City_annex_area meta data to publish to the data portal
+		d. Move failed annexations, etc that are older than the previous calendar year.
+		e. Work on Documentation and put it where Mike Leathers is recommending (TFS, directory, Sharepoint)
+		f. Send Christie my Documentation
+		g. Document the overlays with screen captures and send them to Assessments for review.
+		h. Put the Models in TFS
+	55. Bear Creek Pilot Area CAD 2nd Batch IN 12/29/15
+		a. Get a full list of CADs initiated in Automation
+		b. Get a full list of CADs initiated in Permits Plus
+		c. Compare PermitsPlus permits to those already complete
+		d. Identify the CADs that are not complete and are in Bear Creek Study Area
+	56. Update TDR sending sites IN 11/17/15
+	57. Update Vashon Town Plan P-Suffix language from 2014 ordinance - Bradley Clark - IN 2/1/16
+	58. Create Permitting  Jurisdiction Search #notes 2/26/14
+		a. Data collection
+			i. Get list of permit types from John Backman
+			ii. Ask Peter Isaacson  about septic permits
+		b. Database enhancement
+			i. Create look-up table(s) to relate agency contact information to GIS Layers
+			ii. Collect contact information for all agencies – Work with Connie Carlson
+		c. Web page development – Work with Adam Cabrera
+			i. Determine where on website page will be placed
+			ii. Design new web page or section for existing page – Work with John Backman
+				1. Look at http://www.mybuildingpermit.com/ for information
+			iii. Implement design in Districts Report
+			iv. QC Testing
+			v. Deploy to production
+	59. GIS Layer of Accela Automation Permits
+		a. Work with Debbie:
+			i. Get her Oracle Client working: 8/13/14
+			ii. Get Oracle services working on a server
+		b. Establish weekly automated process to clone data from Oracle to MS SQL Server
+		c. Write Program to manage point-in-time locked paracel geometry
+		d. Establish weekly automated process to join cloned data and point-in-time locked paracel geometry
+	60. Create AWS copies of plibrary, working w/Debbie Bull
+		a. PostGIS version
+			i. Determine what AWS resources are needed
+			ii. Initialize needed AWS Resources
+			iii. Set up Database to receive Plibrary copy
+			iv. Import all Plibrary data
+			v. Implment SDE ontop of PostGIS
+			vi. Create feature services for public data layers with both state plane and Web Mercator versions
+	61. Move data from Regional Planning to Budget@maint
+	62. Outstanding Accela Issues:
+		a. ParcelAddress updates in Accela GIS
+			a. Work with Dave O & Accela to get updates automated. (I have python code, but Debbie has SQL code that can be run in a few seconds.)
+			b. Work withDave Ostanski to a fully populate  Lat & Long fields in ParcelAddress layer
+		b. Add the Farm Plan and Forest plan parcels to Accela GIS for Randy Sandin, per conversation 6/11/14. No Notes. See Todd Klinka e-mail 6/11/14.
+		c. Ortho Imagery broken/Missing from Accela GIS IN 9/14/15
+			i. MJ took them all down to try to improve server performance.
+			ii. Establish 2015 image service on new internal production server or dedicated image service. Possible to coordinate w/ Assessments.
+		d. Multiple Address Issues and condos - Kim Simpson/Stacey Wenkel IN 7/30/15
+			i. Update Preprod GIS_Layers  to remove no house number address points
+			ii. Check PIN = '0922069179' in preprod for 0 housenumbered address_points.
+		e. Switch Base3 to point at plibrary.hydro.CHNLMIGR_area for Channel Migration Hazard Layer
+		f. Enhance Parcel Address to include condo units IN 8/12/15
+		g. Forest Stewardship Plan Layer: See e-mail 7/23/14
+		h. Inspector App issue - John Miller #e-mail 4/24/2015
+		i. Address Problem -  Alex Perlman #email 4/23/15
+		j. System to Document parcel info such as research findings by staff Jim Chan IN 3/10/15
+		k. Look at geodata services issue here: http://resources.arcgis.com/en/help/main/10.1/index.html#//0154000004s0000000
+		l. John Miller - look into addressing issues #e-mail 11/13/2014
+		m. Check out Accela GIS extension
+	63. SUPPER Database Review
+		a. Review the feature classes that were moved into Supper that didn’t have matching names with layers in plibrary but actually are duplicates of plibrary.
+			i. Compare schema of the identified matches and add to the list used for the following step.
+		b. Investigate the feature classes that matched name with feature classes in plibrary but did not have matching schemas. 
+			i. Of particular interest any of these that match layers used in map services accessed by Accela GIS.
+	64. Comp Plan Data
+		a. Publish layers edited to support 2016 comp plan maps IN 11/3/15
+			i. FPD
+			ii. APD
+			iii. UGA
+		b. Development Conditions/Sitecore pages:
+			i. Review all 2008 comp plan amendments for P-suffixed
+			ii. Description for SO-180
+			iii. Title for SO-260. Typo of Business.
+	65. Update PAA Data & maps.
+		a.  Make City PAA orange in iMap IN 6/11/15
+		b. Make changes that Karen indicated via e-mail on 2/13
+		c. Urban Unincorporated Priority Initiative 
+			a. Create a finite list of all areas under investigation
+				1. Review City_Annex_Area. There is one in Northbend.
+			b. Update layer and map for County Executive #notes 6/11
+		d. Make changes to standard PAA map as Karen F indicated via e-mail on 3/18
+		e. Get buy-off from Karen Freeman
+		f. Send to Ray Sugui
+		g. Create small area map
+	66. SMP Designations
+		a. Fix the layer file to resolve the problem that Lisa was having with the comp plan map
+		b. Fix the layer file to resolve the UGA Line conflict problem, IF IT EXISTS
+		c. Fix the Base3 Map service to remove old SMMP layer and name the shoreline layer better(short)
+		d. See e-mail 6/9/2015 3:26 PM
+	67. Change map services for DPER to reference GISSQLPUB - MJ IN 9/16/15
+	68. Update All DPER map services with new FLDPLN_100YR_AREA layer replacing FLDPLAIN_AREA IN - 8/6/15
+	69. Fix p-suffix  for ORD # 16595 effective in 2009. Have a copy of the Hearing examiners report
+	70. Resolve APD question raised by Rey Sugui e-mail 7/15/15
+	71. GISMO enhancements post implementation
+		a. Allow a user to save state that all categories should be open by default.
+		b. Fix the inspectors listed in the report.
+	72. Council Dist/CSA Map for Lisa Verner - Assigned to Connie - IN 5/21/15
+	73. Complete work on customer service areas for Alan Painter.
+		a. Make Python Script for CSA
+	74. iMap Issues
+		a. Add Aquatic Area & CAO_Designations to plibrary, notify MJ
+		b. Update and revise openspace  description for Growth Pattern
+	75. Future GISMO Report enchancements
+		a. Parcel Info Report
+			i. Implement Assessor's Open Space - Adam
+	76. Clean up some CAD scan map data for Mike L/Victor H
+	77. Complete the close out of UAC_AREA and create and document COMMUNITY_COUNCIL_AREA
+		a. Mary would like to be the data steward on this.
+		b. Regional Planning owned layer?
+	78. Make sure all of the rezones have been implemented #email 10/3/14 from Jim Chan
+		a. Talk with Kim Claussen - receive list of rezones 2000-Present
+		b. Get list of rezones older than 2000 - pass to Kim for status and zone change.
+		c. Check the zoning layer to see if zoning change was made
+		d. Research rezones where zoning change was approved but not made
+	79. Improve 500’ buffer mailing list generation by adding  STR based addresses to GISMO mailing list
+		a. Receive list of STR/Permit Type combinations
+		b. Process list to eliminate duplication and simplify logic
+		c. Implement in Mailing list report - Adam
+	80. Setup Zoning History so that DPER staff can do research
+		a. Organize the zoning history layers in SUPPER database
+	81. Fix the attributes in STREET_DIRECTION_ZONE
+	82. Look at Addressing Data from Clifford
+		a. Look into Esplanade Street for Clifford Snow. #email 4/11/14
+		b. Bring a Building # example to the Next Data Wrangler Meeting
+		c. e-mail 8/16/14.
