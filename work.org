@@ -1,3 +1,7 @@
+* DONE Request for Regional Planning Hours 2015-2016
+  CLOSED: [2017-02-17 12:02]
+  IN: [2017-02-13 Mon]
+
 * DONE send a request to George
   CLOSED: [2017-03-29 Wed 16:53]
   IN: [2017-03-29 Wed]
@@ -77,9 +81,6 @@
 
 * TODO Update parcel_address Layer and key IDs for Accela Automation
   IN: [2017-02-08 Wed]
-
-* TODO Request for Regional Planning Hours 2015-2016
-  IN: [2017-02-13 Mon]
 
 * TODO Implement the Comp Plan Changes
   SCHEDULED: <2017-03-31 Fri 9:30>
@@ -173,41 +174,27 @@
 *** TODO Add Community Service Areas to GIS_Layers map service in Prod
 
 * TODO Respond to Christine Jensen
-** TODO It seems that L98RZ006 (Ordinance # 13755 - TR-P48) wasn't implemented in the zoning layer until 3 months after the area zoning map was produced for the comp plan amendment. See e-mails sent in May 2014.
 ** TODO Implement the p-suffix for the adjacent Rainier Ridge?
+  It seems that L98RZ006 (Ordinance # 13755 - TR-P48) wasn't
+implemented in the zoning layer until 3 months after the area zoning
+map was produced for the comp plan amendment.
+  See e-mails sent in May 2014.
 
-* TODO Create Recorded Plat Lot Plan document. IN 3/11/16
-
-* TODO Talk to Toni about ongoing Data update schedule of Marijuana Data
-** TODO Put it in Plibrary?
-** TODO Available only internally?
-
-* TODO Community Service Areas
-** TODO Write document for model as it exists
-** TODO Put files in TFS
-** TODO Orphaned Tasks
-*** TODO Enhance a report that Dave is creating by adding CSA value.
-*** TODO Add Community Service Areas to GIS_Layers map service in Prod
-
-* TODO Respond to Christine Jensen
-** TODO It seems that L98RZ006 (Ordinance # 13755 - TR-P48) wasn't implemented in the zoning layer until 3 months after the area zoning map was produced for the comp plan amendment. See e-mails sent in May 2014.
-** TODO Implement the p-suffix for the adjacent Rainier Ridge?
-
-* TODO Create Recorded Plat Lot Plan document. IN 3/11/16
+* TODO Create Recorded Plat Lot Plan document.
+  IN: [2016-03-11 Fri]
 
 * TODO SMP changes requested by Laura Casey
 ** TODO Get Jim Chan to contact Mark Isaacson and determine who is responsible and what are the procedures for  updates
-** TODO Laura e-mail
-** TODO Lake Washington between Renton and Bellevue?
+Laura e-mail
+Lake Washington between Renton and Bellevue?
 
 * TODO Figure out KCGIS geocoding service details and put in AVTEST AccelaGIS config.
 
-* TODO Manage migration from Pictometry Online to Connect Explorer IN 2/3/16
-** TODO Prepare a presentation for DPER Huddle MTW 8:30AM
+* TODO Fix SAO Wetland error - Jen Vanderhoof
+  IN: [2015-12-19 Sat]
 
-* TODO Fix SAO Wetland error - Jen Vanderhoof IN 12/19/15
-
-* TODO Fix GIS_Layers Service Definition  file IN 1/21/16
+* TODO Fix GIS_Layers Service Definition file
+  IN: [2016-01-21 Thu]
 
 * TODO City Layers
 ** TODO Talk to Rey Sugi about the Snoqualmie City boundary
@@ -219,42 +206,38 @@
 ** TODO Document the overlays with screen captures and send them to Assessments for review.
 ** TODO Put the Models in TFS
 
-* TODO Bear Creek Pilot Area CAD 2nd Batch IN 12/29/15
-** TODO Get a full list of CADs initiated in Automation
-** TODO Get a full list of CADs initiated in Permits Plus
-** TODO Compare PermitsPlus permits to those already complete
-** TODO Identify the CADs that are not complete and are in Bear Creek Study Area
+* TODO Update TDR sending sites
+  IN: [2015-11-17 Tue]
 
-* TODO Update TDR sending sites IN 11/17/15
+* TODO Update Vashon Town Plan P-Suffix language from 2014 ordinance - Bradley Clark
+  IN:[2016-02-01 Mon]
 
-* TODO Update Vashon Town Plan P-Suffix language from 2014 ordinance - Bradley Clark - IN 2/1/16
-
-* TODO Create Permitting  Jurisdiction Search #notes 2/26/14
-** TODO Data collection
+* TODO Create Permitting  Jurisdiction Search
+  Look at paper notes [2014-02-26 Wed]
+** Data collection
 *** TODO Get list of permit types from John Backman
 *** TODO Ask Peter Isaacson  about septic permits
-** TODO Database enhancement
+** Database enhancement
 *** TODO Create look-up table(s) to relate agency contact information to GIS Layers
 *** TODO Collect contact information for all agencies - Work with Connie Carlson
-** TODO Web page development - Work with Adam Cabrera
+** Web page development - Work with Adam Cabrera
+** Look at http://www.mybuildingpermit.com/ for information
 *** TODO Determine where on website page will be placed
 *** TODO Design new web page or section for existing page - Work with John Backman
-
-* TODO Look at http://www.mybuildingpermit.com/ for information
 *** TODO Implement design in Districts Report
 *** TODO QC Testing
 *** TODO Deploy to production
 
 * TODO GIS Layer of Accela Automation Permits
-** TODO Work with Debbie:
-*** TODO Get her Oracle Client working: 8/13/14
+** Work with Debbie:
+*** TODO Get her Oracle Client working
 *** TODO Get Oracle services working on a server
 ** TODO Establish weekly automated process to clone data from Oracle to MS SQL Server
 ** TODO Write Program to manage point-in-time locked paracel geometry
 ** TODO Establish weekly automated process to join cloned data and point-in-time locked paracel geometry
 
 * TODO Create AWS copies of plibrary, working w/Debbie Bull
-** TODO PostGIS version
+** PostGIS version
 *** TODO Determine what AWS resources are needed
 *** TODO Initialize needed AWS Resources
 *** TODO Set up Database to receive Plibrary copy
@@ -267,22 +250,29 @@
 * TODO Outstanding Accela Issues:
 ** TODO ParcelAddress updates in Accela GIS
 *** TODO Work with Dave O & Accela to get updates automated. (I have python code, but Debbie has SQL code that can be run in a few seconds.)
-*** TODO Work withDave Ostanski to a fully populate  Lat & Long fields in ParcelAddress layer
-** TODO Add the Farm Plan and Forest plan parcels to Accela GIS for Randy Sandin, per conversation 6/11/14. No Notes. See Todd Klinka e-mail 6/11/14.
-** TODO Ortho Imagery broken/Missing from Accela GIS IN 9/14/15
-*** TODO MJ took them all down to try to improve server performance.
+*** TODO Work with Dave Ostanski to a fully populate Lat & Long fields in ParcelAddress layer
+** TODO Add the Farm Plan and Forest plan parcels to Accela GIS for Randy Sandin, per conversation.
+   IN: [2014-06-11 Wed]
+   No Notes.
+   See Todd Klinka e-mail [2014-06-11 Wed]
+** TODO Ortho Imagery broken/Missing from Accela GIS
+   IN: [2015-09-14 Mon]
+   MJ took them all down to try to improve server performance.
 *** TODO Establish 2015 image service on new internal production server or dedicated image service. Possible to coordinate w/ Assessments.
-** TODO Multiple Address Issues and condos - Kim Simpson/Stacey Wenkel IN 7/30/15
-*** TODO Update Preprod GIS_Layers  to remove no house number address points
+** TODO Multiple Address Issues and condos - Kim Simpson/Stacey Wenkel
+   IN: [2015-07-30 Thu]
+*** TODO Update Preprod GIS_Layers to remove no house number address points
 *** TODO Check PIN = '0922069179' in preprod for 0 housenumbered address_points.
 ** TODO Switch Base3 to point at plibrary.hydro.CHNLMIGR_area for Channel Migration Hazard Layer
-** TODO Enhance Parcel Address to include condo units IN 8/12/15
-** TODO Forest Stewardship Plan Layer: See e-mail 7/23/14
-** TODO Inspector App issue - John Miller #e-mail 4/24/2015
-** TODO  Address Problem -  Alex Perlman #email 4/23/15
-** TODO System to Document parcel info such as research findings by staff Jim Chan IN 3/10/15
+** TODO Enhance Parcel Address to include condo units
+   IN: [2015-08-12 Wed]
+** TODO Forest Stewardship Plan Layer: See e-mail [2014-07-23 Wed]
+** TODO Inspector App issue - John Miller #e-mail [2015-04-24 Fri]
+** TODO  Address Problem -  Alex Perlman #email [2015-04-23 Thu]
+** TODO System to Document parcel info such as research findings by staff Jim Chan
+   IN:[2015-03-10 Tue]
 ** TODO Look at geodata services issue here: http://resources.arcgis.com/en/help/main/10.1/index.html#//0154000004s0000000
-** TODO John Miller - look into addressing issues #e-mail 11/13/2014
+** TODO John Miller - look into addressing issues #e-mail [2014-11-13 Thu]
 ** TODO Check out Accela GIS extension
 
 * TODO SUPPER Database Review
@@ -292,23 +282,27 @@
 *** TODO Of particular interest any of these that match layers used in map services accessed by Accela GIS.
 
 * TODO Comp Plan Data
-** TODO Publish layers edited to support 2016 comp plan maps IN 11/3/15
-*** TODO FPD
-*** TODO APD
-*** TODO UGA
+  IN: [2015-11-03 Tue]
+  Publish layers edited to support 2016 comp plan maps
+** TODO FPD
+** TODO APD
+** TODO UGA
 ** TODO Development Conditions/Sitecore pages:
-*** TODO Review all 2008 comp plan amendments for P-suffixed
+*** TODO Review all 2008 comp plan amendments for P-suffixes
 *** TODO Description for SO-180
 *** TODO Title for SO-260. Typo of Business.
 
 * TODO Update PAA Data & maps.
-** TODO  Make City PAA orange in iMap IN 6/11/15
-** TODO Make changes that Karen indicated via e-mail on 2/13
+  SCHEDULED: <2017-03-31 Fri 10:00>
+** TODO  Make City PAA orange in iMap
+   IN: [2015-06-11 Thu]
+** TODO Make changes that Karen indicated via e-mail on [2015-02-13 Fri]
 ** TODO Urban Unincorporated Priority Initiative 
 *** TODO Create a finite list of all areas under investigation
 **** TODO Review City_Annex_Area. There is one in Northbend.
-*** TODO Update layer and map for County Executive #notes 6/11
-** TODO Make changes to standard PAA map as Karen F indicated via e-mail on 3/18
+*** TODO Update layer and map for County Executive
+    Look in Paper notes [2015-06-11 Thu]
+** TODO Make changes to standard PAA map as Karen F indicated via e-mail on [2015-03-18 Wed]
 ** TODO Get buy-off from Karen Freeman
 ** TODO Send to Ray Sugui
 ** TODO Create small area map
@@ -317,55 +311,49 @@
 ** TODO Fix the layer file to resolve the problem that Lisa was having with the comp plan map
 ** TODO Fix the layer file to resolve the UGA Line conflict problem, IF IT EXISTS
 ** TODO Fix the Base3 Map service to remove old SMMP layer and name the shoreline layer better(short)
-** TODO See e-mail 6/9/2015 3:26 PM
+** TODO See e-mail [2015-06-09 Tue 15:26]
 
-* TODO Change map services for DPER to reference GISSQLPUB - MJ IN 9/16/15
+* TODO Change map services for DPER to reference GISSQLPUB - MJ
+  IN: [2015-09-16 Wed]
 
-* TODO Update All DPER map services with new FLDPLN_100YR_AREA layer replacing FLDPLAIN_AREA IN - 8/6/15
+* TODO Update All DPER map services with new FLDPLN_100YR_AREA layer replacing FLDPLAIN_AREA
+  IN: [2015-08-06 Thu]
 
 * TODO Fix p-suffix  for ORD # 16595 effective in 2009. Have a copy of the Hearing examiners report
 
-* TODO Resolve APD question raised by Rey Sugui e-mail 7/15/15
+* TODO Resolve APD question raised by Rey Sugui e-mail [2015-07-15 Wed]
 
-* TODO GISMO enhancements post implementation
-** TODO Allow a user to save state that all categories should be open by default.
-** TODO Fix the inspectors listed in the report.
-
-* TODO Council Dist/CSA Map for Lisa Verner - Assigned to Connie - IN 5/21/15
-
-* TODO Complete work on customer service areas for Alan Painter.
-** TODO Make Python Script for CSA
+* TODO Council Dist/CSA Map for Lisa Verner - Assigned to Connie
+  IN: [2015-05-21 Thu]
 
 * TODO iMap Issues
 ** TODO Add Aquatic Area & CAO_Designations to plibrary, notify MJ
-** TODO Update and revise openspace  description for Growth Pattern
+** TODO Update and revise openspace description for Growth Pattern
 
-* TODO Future GISMO Report enchancements
-** TODO Parcel Info Report
+* TODO Future GISMO Parcel Info Report enchancements
 *** TODO Implement Assessor's Open Space - Adam
-
-* TODO Clean up some CAD scan map data for Mike L/Victor H
+    This was halted pending better information on what data source to use.
 
 * TODO Complete the close out of UAC_AREA and create and document COMMUNITY_COUNCIL_AREA
-** TODO Mary would like to be the data steward on this.
-** TODO Regional Planning owned layer?
+  Mary would like to be the data steward on this.
+  Regional Planning owned layer?
 
-* TODO Make sure all of the rezones have been implemented #email 10/3/14 from Jim Chan
+* TODO Make sure all of the rezones have been implemented #email [2014-10-03 Fri]from Jim Chan
 ** TODO Talk with Kim Claussen - receive list of rezones 2000-Present
 ** TODO Get list of rezones older than 2000 - pass to Kim for status and zone change.
 ** TODO Check the zoning layer to see if zoning change was made
 ** TODO Research rezones where zoning change was approved but not made
 
-* TODO Improve 500' buffer mailing list generation by adding  STR based addresses to GISMO mailing list
+* TODO Improve 500' buffer mailing list generation by adding STR based addresses to GISMO mailing list
 ** TODO Receive list of STR/Permit Type combinations
 ** TODO Process list to eliminate duplication and simplify logic
 ** TODO Implement in Mailing list report - Adam
 
-* TODO Setup Zoning History so that DPER staff can do research
+* TODO Setup Zoning History so that users can do research
 ** TODO Organize the zoning history layers in SUPPER database
 
 * TODO Fix the attributes in STREET_DIRECTION_ZONE
 
 * TODO Look at Addressing Data from Clifford
-  Look into Esplanade Street for Clifford Snow. #email 4/11/14
+  Look into Esplanade Street for Clifford Snow. #email [2014-04-11 Fri]
   Bring a Building # example to the Next Data Wrangler Meeting
