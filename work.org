@@ -23,28 +23,36 @@
 ** TODO Review the text from the sharepoint site
 * TODO Download ArcGIS Pro 1.4 & Desktop 10.4.1
 ** TODO submit to desktop support people.
-*** TODO Package for software center - Jason Rove
-**** TODO Cc george when this gets sent 
-*** TODO Install it on a new machine - Cory
-**** TODO Ask Cory who else needs to know this information.
+    Package for software center - Jason Rove
+    Install it on a new machine - Cory
+*** TODO Cc george when this gets sent 
+*** TODO Ask Cory who else needs to know this information.
 ** TODO Tell Cory about the ArcGIS Pro 1.4 and put the installer somewhere
 ** TODO Tell Mary to tell the other people when 10.4.1 is available
-* TODO Respond to request for Mineral sites map. IN 3/24/17
-** TODO Respond and cc Dennis. It is a custom data request.
+* TODO Respond to request for Mineral sites map.
+  IN: [2017-03-24 Fri]
+  SCHEDULED: <2017-03-30 Thu 09:30>
+  CC Dennis. It is a custom data request.
 * TODO Figure out the PAA layer symbology for iMap
-* TODO Vashon Town core analysis/Plan - Brad Clark IN 12/29/16
+* TODO Vashon Town core analysis/Plan - Brad Clark
+  IN: [2016-12-29 Thu]
 ** TODO Submit sidewalk map to designer
+   SCHEDULED: <2017-03-30 Thu 09:45>
 * TODO Follow-up on software for new laptops
-** TODO Get back to Cory and we want to start with Yuko
-* TODO Winery Map - Karen Wolf - IN 2/3/17
-** TODO Second Draft requested sent to DPER staff IN 3/9/17
-* TODO Find missing maps for p-suffix conditions - Wendy G - IN 3/8/17
+** TODO Get back to Cory
+   We want to start with Yuko
+* TODO Winery Map - Karen Wolf
+  IN: [2017-02-03 Fri]
+** TODO Second Draft requested sent to DPER staff
+   IN: [2017-03-09 Thu]
+* TODO Find missing maps for p-suffix conditions - Wendy G
+  IN: [2017-03-08 Wed]
 * TODO Caroline Boatsman - 206-595-8579
-** TODO Mercer island - loss of tree caonpy
-* TODO Paul Freeman
-** TODO Question about lot. 301-898-2631
-* TODO Lisa Verner - Large Parcel analysis IN 1/31/17
-** TODO Wait for response to first draft
+  Mercer island - loss of tree caonpy
+* TODO Paul Freeman question about lot. 301-898-2631
+* TODO Lisa Verner - Large Parcel analysis
+  IN: [2017-01-31 Tue]
+  waiting for response to first draft
 * TODO Question about Mai's parcels
 * TODO Question from Stacey wenkel about not getting GIS in the inspection whatever
 * TODO Update parcel_address Layer and key IDs for Accela Automation IN 2/8/17
@@ -270,6 +278,5 @@
 ** TODO Organize the zoning history layers in SUPPER database
 * TODO Fix the attributes in STREET_DIRECTION_ZONE
 * TODO Look at Addressing Data from Clifford
-** TODO Look into Esplanade Street for Clifford Snow. #email 4/11/14
-** TODO Bring a Building # example to the Next Data Wrangler Meeting
-** TODO e-mail 8/16/14.
+  Look into Esplanade Street for Clifford Snow. #email 4/11/14
+  Bring a Building # example to the Next Data Wrangler Meeting
