@@ -1,39 +1,51 @@
 * DONE Request for Regional Planning Hours 2015-2016
-  CLOSED: [2017-02-17 12:02]
+  CLOSED: <2017-02-17 12:02>
   IN: [2017-02-13 Mon]
 
 * DONE send a request to George
-  CLOSED: [2017-03-29 Wed 16:53]
+  CLOSED: <2017-03-29 Wed 16:53>
   IN: [2017-03-29 Wed]
-  SCHEDULED: <2017-03-29 Wed 16:30>
 
 * DONE Lake Desire Shorline Analysis Betsy
-  CLOSED: [2017-03-29 Wed 16:55]
+  CLOSED: <2017-03-29 Wed 16:55>
   IN: [2017-03-29 Wed]
 
 * TODO Paratransit Routing
   IN: [2016-11-02 Wed]
 ** DONE Respond to follow-up questions so Dennis can respond to Tom
-   CLOSED: [2017-03-30 Thu 10:27]
-   SCHEDULED:<2017-03-29 Wed 18:00>
+   CLOSED: <2017-03-30 Thu 10:27>
    IN: [2017-03-29 Wed]
-
-* TODO Respond to request for Mineral sites map.
+   
+* TODO Request for Mineral sites map.
   IN: [2017-03-24 Fri]
-  SCHEDULED: <2017-03-30 Thu 09:30>
-  CC Dennis. It is a custom data request.
+** DONE Respond with custom order information
+   CLOSED: [2017-03-30 Thu 14:17] SCHEDULED: <2017-03-30 Thu 09:30>
+   CC Dennis. It is a custom data request.
+
+* TODO Review E-mail starting with oldest unread e-mail
+  SCHEDULED: <2017-03-30 Thu 17:00>
 
 * TODO Roads updates for Travel Concurrency and MPS
   IN: [2017-03-17 Fri]
-** TODO Respond to Jim Ishimaru e-mail
+** DONE Respond to Jim Ishimaru e-mail
+   CLOSED: [2017-03-30 Thu 17:00
    SCHEDULED: <2017-03-30 Thu 10:00>
    IN:[2017-03-29 Wed]
+** TODO Call Stacey W and determine if MPS_area code will be removed from Automation scripts
+   DEADLINE: <2017-03-31 Fri 9:15>
 ** TODO Create new map services for Accela GIS
+   DEADLINE: <2017-03-31 Fri 9:20>
 ** TODO Test new map services for Accela GIS
+   DEADLINE: <2017-04-04 Tue>
+   SCHEDULED: <2017-04-03 Mon 09:20>
 ** TODO Update map services for Accela GIS Production
+   DEADLINE: <2017-04-14 Fri>
 ** Verify Adam has updated GISMO Parcel Information Report
+   DEADLINE: <2017-04-14 Fri>
 ** Verify District report is updated
+   DEADLINE: <2017-04-14 Fri>
 ** TODO Remove MPS and TCMZONE from Plibrary
+   DEADLINE: <2017-04-21 Fri>
 
 * TODO Take the lead on the Address point priority initiative 
 ** TODO Review the text from the sharepoint site
@@ -51,10 +63,12 @@
 
 * TODO Vashon Town core analysis/Plan - Brad Clark
   IN: [2016-12-29 Thu]
-** TODO Submit sidewalk map to designer
+** DONE Submit sidewalk map to designer
+   CLOSED: [2017-03-30 Thu 14:45]
    SCHEDULED: <2017-03-30 Thu 09:45>
 
 * TODO Follow-up on software for new laptops
+  DEADLINE: <2017-03-31 Fri 17:00>
 ** TODO Get back to Cory
    We want to start with Yuko
 
@@ -102,11 +116,17 @@
 ** TODO Schedule a time that Dennis and I can present to the Regional Planning Staff
    Contact Chandler First
 
-* TODO SMART GOAL: Establish and create a document describing a new KCGIS governance process for spatial data warehouse layer maintenance prioritization and tracking, before July 2017, which will identify geographic information framework layers, track layer update frequencies, and allow the GIS Steering Committee to prioritize layers to receive update efforts as part of the KCGIS Center's operations program. 
+* TODO SMART GOAL: Establish and create a document describing a new KCGIS governance process for spatial data warehouse layer maintenance prioritization and tracking.
+  DEADLINE: <2017-07-01 Sat>
+** Features:
+   Identify the geographic information framework layers
+   track layer update frequencies
+   allow the GIS Steering Committee to prioritize layers to receive update efforts as part of the KCGIS Center's operations program. 
 
-* TODO SMART GOAL: Add 3 more counties to City_3co_jurisdiction layer at the request of transit. IN 3/2/15
+* TODO SMART GOAL: Add 3 more counties to City_3co_jurisdiction layer at the request of transit.
+  IN:  [2015-03-02 Mon]
 ** DONE Obtain feed-back from Gunnar
-   CLOSED: [2017-02-17 11:31]
+   CLOSED: <2017-02-17 11:31>
 ** TODO Complete functional model
 ** TODO Complete functional python script
 ** TODO Post new layers
@@ -121,10 +141,10 @@
 ** TODO Send questions to Accela
 ** TODO Figure out database
 
-* TODO Look into Council zoning ordinance e-mail 11/9/16 report back to Christie
+* TODO Look into Council zoning ordinance e-mail [2016-11-09 Wed] report back to Christie
   See e-mail from Erin (council staff)
 
-* TODO Wictor lady e-mail 11/9/16
+* TODO Wictor lady e-mail [2016-11-09 Wed]
 
 * TODO SMART GOAL: Publish Steep Slope & Landslide Hazard Layers for DPER
   IN: [2015-11-18 Wed]
